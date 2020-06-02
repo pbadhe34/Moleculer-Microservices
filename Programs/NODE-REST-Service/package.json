@@ -1,0 +1,11 @@
+{
+  "name": "node-rest-service",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Prakash Badhe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "monolithic-heroePower-service",
+  "scripts": {
+    "monolithik": "node monolithic-heroePower.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}

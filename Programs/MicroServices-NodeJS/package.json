@@ -1,0 +1,12 @@
+{
+  "name": "powers-microservice",
+  "scripts": {
+    "heroes": "node microservice-heroes.js",
+    "powers": "node microservice-powers.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.1-security"
+  }
+}
